@@ -1,0 +1,44 @@
+{
+  "workbench.colorTheme": "Vesper",
+  "workbench.iconTheme": "symbols",
+  "workbench.activityBar.location": "top",
+
+  "editor.minimap.autohide": "scroll",
+  "editor.fontSize": 15,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "smooth",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+
+  "workbench.sideBar.location": "right",
+  "workbench.colorCustomizations": {},
+
+  "cSpell.language": "en,tr",
+
+  "RainbowBrackets.depreciation-notice": false,
+
+  "vscord.app.name": "Visual Studio Code",
+  "vscord.status.idle.check": false,
+  "vscord.status.idle.enabled": false,
+  "vscord.status.state.text.editing": "Working on {file_name}{file_extension}",
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 800,
+
+  "[*]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+
+  "editor.formatOnSave": true,
+
+  "prettier.singleQuote": true,
+  "prettier.useTabs": false,
+  "prettier.semi": true
+}
