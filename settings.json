@@ -1,17 +1,6 @@
 {
-  "[*]": {
-    "editor.defaultFormatter": "biomejs.biome"
-  },
-  "[prisma]": {
-    "editor.defaultFormatter": "Prisma.prisma"
-  },
-
   "cSpell.language": "en,tr",
-  "cSpell.userWords": [
-    "magicui",
-    "Vante"
-  ],
-
+  
   "editor.cursorBlinking": "smooth",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.fontSize": 15,
@@ -22,6 +11,14 @@
 
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 800,
+
+  "[*]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
 
   "html.completion.attributeDefaultValue": "singlequotes",
 
